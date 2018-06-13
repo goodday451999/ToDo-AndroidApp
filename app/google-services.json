@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1066950863657",
+    "firebase_url": "https://neoreminder.firebaseio.com",
+    "project_id": "neoreminder",
+    "storage_bucket": "neoreminder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066950863657:android:4c79a19fea4dca2e",
+        "android_client_info": {
+          "package_name": "com.example.nilotpal.neoreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066950863657-qvblntq6ucblkgjsv4osu90kq97on8md.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nilotpal.neoreminder",
+            "certificate_hash": "6d53e303393956670129333413e1f2a76ab24048"
+          }
+        },
+        {
+          "client_id": "1066950863657-1kqits0e852ju5k4i6i3see53jgoj086.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1066950863657-1kqits0e852ju5k4i6i3see53jgoj086.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJOLXW8yVetncxEczcf7anZGRWJ7qhWds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066950863657-1kqits0e852ju5k4i6i3see53jgoj086.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
